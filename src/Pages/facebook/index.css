@@ -1,0 +1,17 @@
+.facebook-container {
+    padding: 2rem;
+    background: #f3f4f6;
+  }
+  
+  .facebook-card {
+    margin-bottom: 2rem;
+    border-left: 5px solid #1890ff;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.facebook-icon {
+  font-size: 24px;
+  color: #1890ff;
+  margin-right: 10px;
+}
